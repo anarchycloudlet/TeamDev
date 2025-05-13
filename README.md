@@ -1,1 +1,1 @@
-# Team pet-Project
+# Командный pet-проект
